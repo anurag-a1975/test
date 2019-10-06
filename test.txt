@@ -1,6 +1,3 @@
 # hellooooooo
 
-#added the mock data
-ghghjgjhgjhg
-jkjkhjkhlklk'kjkjjhkk
-hgjhjkjkjkjkhjkhjk
+# REMOVED THE MOCK DATA
